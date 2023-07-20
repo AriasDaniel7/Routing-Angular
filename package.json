@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "buiil:github": "ng deploy --base-href=https://ariasdaniel7.github.io/Routing-Angular/",
+    "build:github": "ng deploy --base-href=https://ariasdaniel7.github.io/Routing-Angular/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
